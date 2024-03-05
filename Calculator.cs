@@ -13,4 +13,8 @@ class Calculator
 	{
 		return a - b;
 	}
+	static int Perkalian(int a, int b)
+	{
+		return a * b;
+	}
 }
